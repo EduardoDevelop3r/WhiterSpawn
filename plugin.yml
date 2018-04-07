@@ -1,0 +1,10 @@
+name: BWitherSpawn
+description: Sistema de gerar Wither automaticamente
+main: com.bestfyplugner.witherspawn.Main
+version: 1.0
+author: bestfyplugner
+depend: BestfyAPI
+commands:
+  wither:
+    usage: /<command> <spawn|setspawn>
+    description: Set o Spawn do Wither ou Spawne o Wither
